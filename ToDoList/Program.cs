@@ -15,7 +15,7 @@
                 Console.WriteLine("Enter 1 to add a task to the list.");
                 Console.WriteLine("Enter 2 to remove a task from the list.");
                 Console.WriteLine("Enter 3 to view the list");
-                Console.WriteLine("Enter exit to exit the program");
+                Console.WriteLine("Enter exit to exit the program.");
 
                 option = Console.ReadLine();
 
